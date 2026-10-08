@@ -61,7 +61,7 @@ const contactForm = document.getElementById("contactForm");
 const formStatus = document.getElementById("formStatus");
 
 // Replace this with your actual business email address.
-const businessEmail = "your-email@example.com";
+const businessEmail = "nikharesanskar@gmail.com";
 
 contactForm.addEventListener("submit", (event) => {
     event.preventDefault();
